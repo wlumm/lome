@@ -734,12 +734,8 @@ POSTS & CONTENT STYLES
 *********************/
 .post_item {
   width: 100%;
-<<<<<<< HEAD
   padding: 10px;
   margin: 1px; }
-=======
-  padding: 10px; }
->>>>>>> 88295bf39da69da1adf7b812fdaad6e03a88d965
 
 .post-main {
   background-color: white;
@@ -747,25 +743,15 @@ POSTS & CONTENT STYLES
   line-height: 1.8em; }
 
 .post-footer {
-<<<<<<< HEAD
   background-color: white;
-=======
-  background-color: #D1D1D1;
-  padding: 20px; }
-
-.no-tag {
->>>>>>> 88295bf39da69da1adf7b812fdaad6e03a88d965
   padding: 20px; }
 
 .post-timestamp {
   color: #990100; }
 
-<<<<<<< HEAD
 .post-footer {
   background-color: #D1D1D1; }
 
-=======
->>>>>>> 88295bf39da69da1adf7b812fdaad6e03a88d965
 .post-cover img {
   width: 100%;
   display: block; }
