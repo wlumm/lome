@@ -25,6 +25,8 @@
     <section class="post-footer">
         {{#if tags}}
             <span class="tags-title"><i class="fa fa-tags"></i> {{tags}}</span>
+        {{else}}
+            <span class="no-tag"></span>
         {{/if}}
         <a class="read-more" href="{{url}}"><i class="fa fa-angle-right"></i></a>
     </section>
